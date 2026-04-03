@@ -18,9 +18,9 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/akhil-pandey-a6883b240
 📧 Email: [pandeyakhil780@gmail.com](mailto:pandeyakhil780@gmail.com)
-📞 Contact Number: +91-9305828258
----
+📞 Phone: +91 9305828258
 
+---
 
 # 🧰 Tech Stack (Visual Portfolio)
 
@@ -90,8 +90,6 @@
 
 ---
 
----
-
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
@@ -104,9 +102,8 @@
 🏅 Strong ML + EDA + Time Series Expertise
 🏅 Hands-on with Real Business Problems
 
+---
 
 # 💡 Personal Branding Statement
 
 *"I don’t just build models, I build solutions that solve real business problems."* 🚀
-
----
