@@ -16,8 +16,10 @@
 
 # 🌐 Let's Connect
 
-🔗 LinkedIn: https://www.linkedin.com/in/akhil-pandey-a6883b240
+🔗 LinkedIn: https://www.linkedin.com/in/akhilypandey
+
 📧 Email: [pandeyakhil780@gmail.com](mailto:pandeyakhil780@gmail.com)
+
 📞 Phone: +91 9305828258
 
 ---
