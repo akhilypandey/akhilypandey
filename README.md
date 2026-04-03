@@ -14,6 +14,14 @@
 
 ---
 
+# 🌐 Let's Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/akhil-pandey-a6883b240
+📧 Email: [pandeyakhil780@gmail.com](mailto:pandeyakhil780@gmail.com)
+📞 Contact Number: +91-9305828258
+---
+
+
 # 🧰 Tech Stack (Visual Portfolio)
 
 <p align="center">
@@ -31,55 +39,6 @@
 * Machine Learning (Scikit-learn, XGBoost, Random Forest)
 * Deep Learning (LSTM, TensorFlow)
 * Data Visualization (Matplotlib, Seaborn, Power BI, Tableau)
-
----
-
-# 🚀 Featured Projects (Portfolio Highlights)
-
-## 📈 Stock Price Prediction (LSTM)
-
-🔗 https://github.com/akhil-pandey-a6883b240/stock-prediction
-✔ LSTM-based time series forecasting
-✔ Data scaling, sequence modeling
-✔ Future trend prediction
-
----
-
-## 🚔 Crime Forecasting System
-
-🔗 https://github.com/akhil-pandey-a6883b240/crime-forecasting
-✔ Time series analysis + forecasting
-✔ Pattern detection in crime data
-✔ Real-world dataset insights
-
----
-
-## 💰 Salary Prediction Model
-
-🔗 https://github.com/akhil-pandey-a6883b240/salary-prediction
-✔ Regression + feature engineering
-✔ Model comparison (RF, XGBoost)
-✔ Business decision insights
-
----
-
-## 🛒 Flipkart ML Model
-
-🔗 https://github.com/akhil-pandey-a6883b240/flipkart-ml
-✔ Classification problem
-✔ Hyperparameter tuning
-✔ Business-focused metrics
-
----
-
-# 📂 Complete Project Portfolio (31 Projects)
-
-## 📈 Time Series & Forecasting
-
-* stock-prediction-lstm
-* crime-forecasting
-* yes-bank-stock-prediction
-* time-series-analysis
 
 ---
 
@@ -131,19 +90,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhil-pandey-a6883b240&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-pandey-a6883b240&theme=tokyonight" height="150"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akhil-pandey-a6883b240\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 # 🐍 Contribution Snake
@@ -158,14 +104,6 @@
 🏅 Strong ML + EDA + Time Series Expertise
 🏅 Hands-on with Real Business Problems
 
----
-
-# 🌐 Let's Connect
-
-🔗 LinkedIn: https://www.linkedin.com/in/akhil-pandey-a6883b240
-📧 Email: [pandeyakhil780@gmail.com](mailto:pandeyakhil780@gmail.com)
-
----
 
 # 💡 Personal Branding Statement
 
